@@ -11,17 +11,17 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-5">
-                <img src="img/life/life2.jpg" style="height:510px" class="img-fluid">
+                <img src="life2.jpg" style="height:510px" class="img-fluid">
 
             </div>
             <div class = "col-12 col-lg-3">
-                <img src="img/work/work7.jpg" style="height:170px;width:812px" class="img-fluid">
-                <img src="img/work/work6.jpg" style="height:170px;width:812px" class="img-fluid">
-                <img src="img/work/work5.jpg" style="height:170px;width:812px" class="img-fluid">
+                <img src="work7.jpg" style="height:170px;width:812px" class="img-fluid">
+                <img src="work6.jpg" style="height:170px;width:812px" class="img-fluid">
+                <img src="work5.jpg" style="height:170px;width:812px" class="img-fluid">
             </div>
             <div class="col-lg-4">
-                <img src="img/life/life3.jpg" style="height:340px"  class="img-fluid">
-                <img src="img/life/life5.jpg" style="height:170px;width:400px"  class="img-fluid">
+                <img src="life3.jpg" style="height:340px"  class="img-fluid">
+                <img src="life5.jpg" style="height:170px;width:400px"  class="img-fluid">
 
             </div>
         </div> <!-- Close Row 1 -->
